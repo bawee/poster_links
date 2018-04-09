@@ -6,7 +6,7 @@
 2. Population structure of _L. pneumophila_ [Underwood et al. 2013](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-302)
 
 3. Diversity of major disease associated clones _L. pneumophila_ [David et al. 2016](https://genome.cshlp.org/content/early/2016/09/23/gr.209536.116)
-4. Recombination in major clinical clones in _L. pneumophila_[David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
+4. Recombination in major clinical clones in _L. pneumophila_ [David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
 
 
 Earlier _Legionella_ genomics work from the lab: 
