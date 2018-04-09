@@ -10,7 +10,8 @@
 
 
 Previous work from the lab: 
-[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1)
+
+[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1),
 [Bacigalupe et al. 2017](https://wwwnc.cdc.gov/eid/article/23/5/16-1165_article)
 
 
