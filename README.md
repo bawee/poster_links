@@ -1,7 +1,7 @@
 
 # References
 
-1. First evidence of recombination affecting LPS in _Legionella_ using DNA hibridsation [Cazalet et al. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2259107/)
+1. First evidence of recombination affecting LPS in _Legionella_ using DNA hibridisation [Cazalet et al. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2259107/)
 
 2. Population structure of _L. pneumophila_ [Underwood et al. 2013](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-302)
 
