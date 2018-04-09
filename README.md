@@ -1,7 +1,12 @@
 
 # References
 
-
+[Cazalet et al. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2259107/)
+[Underwood et al. 2013](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-302)
+[Bacigalupe et al. 2017](https://wwwnc.cdc.gov/eid/article/23/5/16-1165_article)
+[David et al. 2016](https://genome.cshlp.org/content/early/2016/09/23/gr.209536.116)
+[David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
+[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1)
 
 ### Figure 1
 
