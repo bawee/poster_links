@@ -9,7 +9,7 @@
 4. Recombination in major clinical clones in _L. pneumophila_[David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
 
 
-Previous work from the lab: 
+Earlier _Legionella_ genomics from the lab: 
 
 [McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1),
 [Bacigalupe et al. 2017](https://wwwnc.cdc.gov/eid/article/23/5/16-1165_article)
