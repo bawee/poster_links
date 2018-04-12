@@ -9,9 +9,10 @@
 4. Recombination in major clinical clones in _L. pneumophila_ [David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
 
 
-Earlier _Legionella_ genomics work from the lab: 
+Earlier _Legionella_ genomics work from the Fitzgerald Group (Laboratory for Evolution and Pathogenesis): 
 
-[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1),
+[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1)
+
 [Bacigalupe et al. 2017](https://wwwnc.cdc.gov/eid/article/23/5/16-1165_article)
 
 
@@ -30,7 +31,7 @@ Earlier _Legionella_ genomics work from the lab:
 
 ### Figure 3
 1. [FastGEAR](http://dx.doi.org/10.1093/molbev/msx066) 
-2. [FastGEAR postprocessing scripts](https://github.com/shimbalama/post_fastGEAR) - L. McIntyre
+2. [FastGEAR postprocessing scripts](https://github.com/shimbalama/post_fastGEAR) - Liam McIntyre (University of Melbourne)
 3. [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
 
 
