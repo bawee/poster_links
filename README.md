@@ -1,8 +1,8 @@
 # Additional acknowledgements
 
-###1. MRC CLIMB
+###MRC CLIMB
 
-###2. Microbiology Society
+###Microbiology Society
 
 
 # References
