@@ -29,7 +29,7 @@ Viusaliations of AMR gene frequecies, distribution and plasmid sequence were car
 
 ### Figure 4
 
-1. [Easyfig](mjsull.github.io/Easyfi
+1. [Easyfig](https://mjsull.github.io/Easyfig/)
 
 ### Figure 5
 
