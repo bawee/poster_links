@@ -2,43 +2,38 @@
 
 ### MRC CLIMB
 
-### Microbiology Society
 
 
-# References
+## Methodology
 
-1. First evidence of recombination affecting LPS in _Legionella_ using DNA hibridisation [Cazalet et al. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2259107/)
+Genomes were assembled using SPAdes (v.1.13) and contigs likely to be from plasmid origin were classified using mlplasmids (v1). The presence of AMR genes were determined using starAMR (v0.4.0) against the DTU Resfinder AMR gene database. Clustering of plasmid contigs carrying AMR genes were performed using R package kmer (v1.1.1) and custom python scripts were used to identify AMR gene combinations present on the same contig in each genome.
 
-2. Population structure of _L. pneumophila_ [Underwood et al. 2013](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-302)
-
-3. Diversity of major disease associated clones _L. pneumophila_ [David et al. 2016](https://genome.cshlp.org/content/early/2016/09/23/gr.209536.116)
-4. Recombination in major clinical clones in _L. pneumophila_ [David et al. 2017](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006855)
-
-
-Earlier _Legionella_ genomics work from the Fitzgerald Group (Laboratory for Evolution and Pathogenesis): 
-
-[McAdam et al. 2014](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0504-1)
-
-[Bacigalupe et al. 2017](https://wwwnc.cdc.gov/eid/article/23/5/16-1165_article)
-
-
+Viusaliations of AMR gene frequecies, distribution and plasmid sequence were carried out with ggplot2, iTol.embl.de and Easyfig.
 
 ### Figure 1
 
-1. [RAxML v8.2.9](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
-2. [iTol](http://itol.embl.de)
-3. [Bayesian Analysis of Population Structure](http://www.helsinki.fi/bsg/software/BAPS/)
+1. R, ggplot,
+2. [mlplasmids](https://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000224#tab2)
+3. [starAMR](https://github.com/phac-nml/staramr)
+4. [Technical University of Denmark Resfinder DB](https://bitbucket.org/genomicepidemiology/resfinder/src/master/)
 
 ### Figure 2
-1. [Easyfig](mjsull.github.io/Easyfig)
-2. [SEER](https://github.com/johnlees/seer)
-3. [SCOARY](https://github.com/AdmiralenOla/Scoary)
 
+1. [RAxML v8.2.9](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
+2. [iTol](http://itol.embl.de)
+3. [hierBAPS](https://github.com/gtonkinhill/rhierbaps)
 
 ### Figure 3
-1. [FastGEAR](http://dx.doi.org/10.1093/molbev/msx066) 
-2. [FastGEAR postprocessing scripts](https://github.com/shimbalama/post_fastGEAR) - Liam McIntyre (University of Melbourne)
-3. [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
+
+1. [Treemer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5930393/)
+
+### Figure 4
+
+1. [Easyfig](mjsull.github.io/Easyfi
+
+### Figure 5
+
+1. R, igraph
 
 
 
@@ -46,8 +41,4 @@ Earlier _Legionella_ genomics work from the Fitzgerald Group (Laboratory for Evo
 
 Twitter - [@bawee](https://twitter.com/bawee)
 
-
-## Figure credit:
-
-[Freepik](https://www.freepik.com/free-vector/residential-houses-collection-in-isometric-style_2035202.htm)
 
